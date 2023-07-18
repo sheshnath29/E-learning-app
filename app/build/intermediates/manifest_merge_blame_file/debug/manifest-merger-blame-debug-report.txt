@@ -1,0 +1,148 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.eduorigin"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="19"
+8-->C:\Users\sheshu\Desktop\EduOrigin\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="31" />
+9-->C:\Users\sheshu\Desktop\EduOrigin\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\sheshu\Desktop\EduOrigin\app\src\main\AndroidManifest.xml:7:5-67
+11-->C:\Users\sheshu\Desktop\EduOrigin\app\src\main\AndroidManifest.xml:7:22-64
+12    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+12-->C:\Users\sheshu\Desktop\EduOrigin\app\src\main\AndroidManifest.xml:8:5-80
+12-->C:\Users\sheshu\Desktop\EduOrigin\app\src\main\AndroidManifest.xml:8:22-77
+13    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+13-->C:\Users\sheshu\Desktop\EduOrigin\app\src\main\AndroidManifest.xml:9:5-81
+13-->C:\Users\sheshu\Desktop\EduOrigin\app\src\main\AndroidManifest.xml:9:22-78
+14
+15    <application
+15-->C:\Users\sheshu\Desktop\EduOrigin\app\src\main\AndroidManifest.xml:11:5-53:19
+16        android:allowBackup="true"
+16-->C:\Users\sheshu\Desktop\EduOrigin\app\src\main\AndroidManifest.xml:12:9-35
+17        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+17-->[androidx.core:core:1.7.0] C:\Users\sheshu\.gradle\caches\transforms-3\46678933633e897331f6cbff7aabb141\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
+18        android:debuggable="true"
+19        android:icon="@mipmap/ic_launcher"
+19-->C:\Users\sheshu\Desktop\EduOrigin\app\src\main\AndroidManifest.xml:13:9-43
+20        android:label="@string/app_name"
+20-->C:\Users\sheshu\Desktop\EduOrigin\app\src\main\AndroidManifest.xml:14:9-41
+21        android:roundIcon="@mipmap/ic_launcher_round"
+21-->C:\Users\sheshu\Desktop\EduOrigin\app\src\main\AndroidManifest.xml:15:9-54
+22        android:supportsRtl="true"
+22-->C:\Users\sheshu\Desktop\EduOrigin\app\src\main\AndroidManifest.xml:16:9-35
+23        android:testOnly="true"
+24        android:theme="@style/Theme.EduOrigin"
+24-->C:\Users\sheshu\Desktop\EduOrigin\app\src\main\AndroidManifest.xml:17:9-47
+25        android:usesCleartextTraffic="true" >
+25-->C:\Users\sheshu\Desktop\EduOrigin\app\src\main\AndroidManifest.xml:18:9-44
+26        <activity
+26-->C:\Users\sheshu\Desktop\EduOrigin\app\src\main\AndroidManifest.xml:19:9-21:40
+27            android:name="com.example.eduorigin.QuizResultShowActivity"
+27-->C:\Users\sheshu\Desktop\EduOrigin\app\src\main\AndroidManifest.xml:20:13-51
+28            android:exported="false" />
+28-->C:\Users\sheshu\Desktop\EduOrigin\app\src\main\AndroidManifest.xml:21:13-37
+29        <activity
+29-->C:\Users\sheshu\Desktop\EduOrigin\app\src\main\AndroidManifest.xml:22:9-24:48
+30            android:name="com.example.eduorigin.adminpanel.AdminPanelCreateQuizActivity"
+30-->C:\Users\sheshu\Desktop\EduOrigin\app\src\main\AndroidManifest.xml:23:13-68
+31            android:exported="true" />
+31-->C:\Users\sheshu\Desktop\EduOrigin\app\src\main\AndroidManifest.xml:24:13-36
+32        <activity
+32-->C:\Users\sheshu\Desktop\EduOrigin\app\src\main\AndroidManifest.xml:25:9-27:40
+33            android:name="com.example.eduorigin.PdfViewerActivity"
+33-->C:\Users\sheshu\Desktop\EduOrigin\app\src\main\AndroidManifest.xml:26:13-46
+34            android:exported="false" />
+34-->C:\Users\sheshu\Desktop\EduOrigin\app\src\main\AndroidManifest.xml:27:13-37
+35        <activity
+35-->C:\Users\sheshu\Desktop\EduOrigin\app\src\main\AndroidManifest.xml:28:9-30:48
+36            android:name="com.example.eduorigin.adminpanel.AdminPanelBookUploadActivity"
+36-->C:\Users\sheshu\Desktop\EduOrigin\app\src\main\AndroidManifest.xml:29:13-68
+37            android:exported="true" />
+37-->C:\Users\sheshu\Desktop\EduOrigin\app\src\main\AndroidManifest.xml:30:13-36
+38        <activity
+38-->C:\Users\sheshu\Desktop\EduOrigin\app\src\main\AndroidManifest.xml:31:9-33:40
+39            android:name="com.example.eduorigin.DashboardActivity"
+39-->C:\Users\sheshu\Desktop\EduOrigin\app\src\main\AndroidManifest.xml:32:13-46
+40            android:exported="false" />
+40-->C:\Users\sheshu\Desktop\EduOrigin\app\src\main\AndroidManifest.xml:33:13-37
+41        <activity
+41-->C:\Users\sheshu\Desktop\EduOrigin\app\src\main\AndroidManifest.xml:34:9-36:40
+42            android:name="com.example.eduorigin.registration.SignInActivity"
+42-->C:\Users\sheshu\Desktop\EduOrigin\app\src\main\AndroidManifest.xml:35:13-56
+43            android:exported="false" />
+43-->C:\Users\sheshu\Desktop\EduOrigin\app\src\main\AndroidManifest.xml:36:13-37
+44        <activity
+44-->C:\Users\sheshu\Desktop\EduOrigin\app\src\main\AndroidManifest.xml:37:9-39:40
+45            android:name="com.example.eduorigin.registration.SignUpActivity"
+45-->C:\Users\sheshu\Desktop\EduOrigin\app\src\main\AndroidManifest.xml:38:13-56
+46            android:exported="false" />
+46-->C:\Users\sheshu\Desktop\EduOrigin\app\src\main\AndroidManifest.xml:39:13-37
+47        <activity
+47-->C:\Users\sheshu\Desktop\EduOrigin\app\src\main\AndroidManifest.xml:40:9-48:20
+48            android:name="com.example.eduorigin.SplashScreenActivity"
+48-->C:\Users\sheshu\Desktop\EduOrigin\app\src\main\AndroidManifest.xml:41:13-49
+49            android:exported="true" >
+49-->C:\Users\sheshu\Desktop\EduOrigin\app\src\main\AndroidManifest.xml:42:13-36
+50            <intent-filter>
+50-->C:\Users\sheshu\Desktop\EduOrigin\app\src\main\AndroidManifest.xml:43:13-47:29
+51                <action android:name="android.intent.action.MAIN" />
+51-->C:\Users\sheshu\Desktop\EduOrigin\app\src\main\AndroidManifest.xml:44:17-69
+51-->C:\Users\sheshu\Desktop\EduOrigin\app\src\main\AndroidManifest.xml:44:25-66
+52
+53                <category android:name="android.intent.category.LAUNCHER" />
+53-->C:\Users\sheshu\Desktop\EduOrigin\app\src\main\AndroidManifest.xml:46:17-77
+53-->C:\Users\sheshu\Desktop\EduOrigin\app\src\main\AndroidManifest.xml:46:27-74
+54            </intent-filter>
+55        </activity>
+56
+57        <meta-data
+57-->C:\Users\sheshu\Desktop\EduOrigin\app\src\main\AndroidManifest.xml:50:9-52:57
+58            android:name="preloaded_fonts"
+58-->C:\Users\sheshu\Desktop\EduOrigin\app\src\main\AndroidManifest.xml:51:13-43
+59            android:resource="@array/preloaded_fonts" />
+59-->C:\Users\sheshu\Desktop\EduOrigin\app\src\main\AndroidManifest.xml:52:13-54
+60
+61        <activity
+61-->[com.karumi:dexter:6.2.3] C:\Users\sheshu\.gradle\caches\transforms-3\a2fb7d6a407fef0c76e3af2593378c45\transformed\jetified-dexter-6.2.3\AndroidManifest.xml:27:9-29:72
+62            android:name="com.karumi.dexter.DexterActivity"
+62-->[com.karumi:dexter:6.2.3] C:\Users\sheshu\.gradle\caches\transforms-3\a2fb7d6a407fef0c76e3af2593378c45\transformed\jetified-dexter-6.2.3\AndroidManifest.xml:28:13-60
+63            android:theme="@style/Dexter.Internal.Theme.Transparent" />
+63-->[com.karumi:dexter:6.2.3] C:\Users\sheshu\.gradle\caches\transforms-3\a2fb7d6a407fef0c76e3af2593378c45\transformed\jetified-dexter-6.2.3\AndroidManifest.xml:29:13-69
+64
+65        <service
+65-->[es.voghdev.pdfviewpager:library:1.1.2] C:\Users\sheshu\.gradle\caches\transforms-3\b32f04f341ee5193fd1cb2a7b17094d9\transformed\jetified-library-1.1.2\AndroidManifest.xml:12:9-15:19
+66            android:name="es.voghdev.pdfviewpager.library.service.CopyAssetService"
+66-->[es.voghdev.pdfviewpager:library:1.1.2] C:\Users\sheshu\.gradle\caches\transforms-3\b32f04f341ee5193fd1cb2a7b17094d9\transformed\jetified-library-1.1.2\AndroidManifest.xml:13:13-84
+67            android:exported="false" >
+67-->[es.voghdev.pdfviewpager:library:1.1.2] C:\Users\sheshu\.gradle\caches\transforms-3\b32f04f341ee5193fd1cb2a7b17094d9\transformed\jetified-library-1.1.2\AndroidManifest.xml:14:13-37
+68        </service>
+69
+70        <provider
+70-->[androidx.emoji2:emoji2:1.0.0] C:\Users\sheshu\.gradle\caches\transforms-3\76c467336cfde2066e93b5d8011c588c\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+71            android:name="androidx.startup.InitializationProvider"
+71-->[androidx.emoji2:emoji2:1.0.0] C:\Users\sheshu\.gradle\caches\transforms-3\76c467336cfde2066e93b5d8011c588c\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:27:13-67
+72            android:authorities="com.example.eduorigin.androidx-startup"
+72-->[androidx.emoji2:emoji2:1.0.0] C:\Users\sheshu\.gradle\caches\transforms-3\76c467336cfde2066e93b5d8011c588c\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:28:13-68
+73            android:exported="false" >
+73-->[androidx.emoji2:emoji2:1.0.0] C:\Users\sheshu\.gradle\caches\transforms-3\76c467336cfde2066e93b5d8011c588c\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:29:13-37
+74            <meta-data
+74-->[androidx.emoji2:emoji2:1.0.0] C:\Users\sheshu\.gradle\caches\transforms-3\76c467336cfde2066e93b5d8011c588c\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+75                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+75-->[androidx.emoji2:emoji2:1.0.0] C:\Users\sheshu\.gradle\caches\transforms-3\76c467336cfde2066e93b5d8011c588c\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:32:17-75
+76                android:value="androidx.startup" />
+76-->[androidx.emoji2:emoji2:1.0.0] C:\Users\sheshu\.gradle\caches\transforms-3\76c467336cfde2066e93b5d8011c588c\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:33:17-49
+77            <meta-data
+77-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\sheshu\.gradle\caches\transforms-3\86073857aad360c8a4bae9b934e55cac\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+78                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+78-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\sheshu\.gradle\caches\transforms-3\86073857aad360c8a4bae9b934e55cac\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+79                android:value="androidx.startup" />
+79-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\sheshu\.gradle\caches\transforms-3\86073857aad360c8a4bae9b934e55cac\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+80        </provider>
+81    </application>
+82
+83</manifest>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="#03A9F4"
+    android:id="@+id/navHeaderId"
+
+    >
+
+    <ImageView
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:src="@drawable/splash_logo"
+        android:id="@+id/navHeaderLogoId"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="10dp"
+        android:layout_marginLeft="8dp"
+
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="E-Learning"
+        android:textColor="#F2EEEE"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        android:layout_marginBottom="2dp"
+        android:layout_marginLeft="8dp"
+        />
+
+
+    <TextView
+        android:id="@+id/navHeaderEmailId"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:textSize="18sp"
+        android:textColor="#F2EEEE"
+        android:layout_marginBottom="10dp"
+        android:layout_marginLeft="8dp"
+        />
+
+</LinearLayout>

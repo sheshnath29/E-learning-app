@@ -1,0 +1,578 @@
+[
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_search.png.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\search.png"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_search.png.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\search.png"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_quiz_result_show.xml.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\src\\main\\res\\layout\\activity_quiz_result_show.xml"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_book_library_admin.png.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\book_library_admin.png"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_order_list.png.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\order_list.png"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_about_us.png.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\about_us.png"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_upload_photo.png.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_upload_photo.png"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\drawable_corner_radius_for_button_edit_text.xml.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\src\\main\\res\\drawable\\corner_radius_for_button_edit_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_quiz_admin.png.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\quiz_admin.png"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_logout.png.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\logout.png"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v21_quiz_admin.xml.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\quiz_admin.xml"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v21_book_library_admin.xml.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\book_library_admin.xml"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_admin_logout.png.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\admin_logout.png"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_about_us.png.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\about_us.png"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_book_library.png.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\book_library.png"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_accepted.png.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\accepted.png"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_book_library_admin.png.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\book_library_admin.png"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_dashboard.xml.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\src\\main\\res\\layout\\activity_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\drawable_splash_logo.png.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\src\\main\\res\\drawable\\splash_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_book_library_admin.png.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\book_library_admin.png"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v21_admin_logout.xml.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\admin_logout.xml"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_admin_logout.png.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\admin_logout.png"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v21_contacts.xml.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\contacts.xml"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_quiz.png.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\quiz.png"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\layout_single_row_design_template.xml.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\src\\main\\res\\layout\\single_row_design_template.xml"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_wrong_answer.png.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\wrong_answer.png"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\layout_nav_header.xml.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\src\\main\\res\\layout\\nav_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_wrong_answer.png.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\wrong_answer.png"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_settings.png.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\settings.png"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_upload_photo.png.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_upload_photo.png"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_about_us.png.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\about_us.png"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_quiz.png.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\quiz.png"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\anim_secondarylogoanimation.xml.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\src\\main\\res\\anim\\secondarylogoanimation.xml"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_accepted.png.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\accepted.png"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_order_list.png.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\order_list.png"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\menu_icon_menu.xml.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\src\\main\\res\\menu\\icon_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_settings.png.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\settings.png"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_contacts.png.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\contacts.png"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_book_library.xml.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\src\\main\\res\\layout\\fragment_book_library.xml"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_w3_school.xml.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\src\\main\\res\\layout\\fragment_w3_school.xml"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_wrong_answer.png.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\wrong_answer.png"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\drawable_radius_for_admin_panel.xml.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\src\\main\\res\\drawable\\radius_for_admin_panel.xml"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\menu_icon_menu_admin.xml.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\src\\main\\res\\menu\\icon_menu_admin.xml"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_accepted.png.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\accepted.png"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_order_list.png.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\order_list.png"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_quiz.png.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\quiz.png"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_book_library_admin.png.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\book_library_admin.png"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_admin_panel_book_upload.xml.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\src\\main\\res\\layout\\activity_admin_panel_book_upload.xml"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_contacts.png.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\contacts.png"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_wrong_answer.png.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\wrong_answer.png"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_logout.png.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\logout.png"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v21_about_us.xml.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\about_us.xml"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_search.png.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\search.png"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_wrong_answer.png.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\wrong_answer.png"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_upload_photo.png.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_upload_photo.png"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_book_library_admin.png.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\book_library_admin.png"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v21_logout.xml.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\logout.xml"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_settings.png.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\settings.png"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_book_library.png.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\book_library.png"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_book_library.png.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\book_library.png"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_settings.png.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\settings.png"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_ic_upload_photo.png.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_upload_photo.png"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_quiz_admin.png.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\quiz_admin.png"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_logout.png.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\logout.png"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_logout.png.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\logout.png"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_ic_upload_photo.png.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_upload_photo.png"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v21_search.xml.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\search.xml"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_search.png.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\search.png"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_quiz_admin.png.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\quiz_admin.png"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_splash_screen.xml.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\src\\main\\res\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_settings.png.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\settings.png"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v21_book_library.xml.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\book_library.xml"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_accepted.png.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\accepted.png"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\anim_mainlogoanimation.xml.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\src\\main\\res\\anim\\mainlogoanimation.xml"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_about_us.png.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\about_us.png"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_contacts.png.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\contacts.png"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_admin_logout.png.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\admin_logout.png"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_java_t_point.xml.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\src\\main\\res\\layout\\fragment_java_t_point.xml"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_settings.png.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\settings.png"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\menu_search_menu.xml.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\src\\main\\res\\menu\\search_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_order_list.png.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\order_list.png"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_online_quiz.xml.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\src\\main\\res\\layout\\fragment_online_quiz.xml"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v21_accepted.xml.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\accepted.xml"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\font_roboto_bold.xml.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\src\\main\\res\\font\\roboto_bold.xml"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\layout_single_row_quiz_design_template.xml.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\src\\main\\res\\layout\\single_row_quiz_design_template.xml"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v21_quiz.xml.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\quiz.xml"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_quiz_admin.png.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\quiz_admin.png"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_wrong_answer.png.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\wrong_answer.png"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_accepted.png.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\accepted.png"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_order_list.png.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\order_list.png"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_admin_logout.png.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\admin_logout.png"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v21_wrong_answer.xml.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\wrong_answer.xml"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_book_library.png.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\book_library.png"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_quiz.png.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\quiz.png"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_quiz_admin.png.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\quiz_admin.png"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_tutorials_point.xml.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\src\\main\\res\\layout\\fragment_tutorials_point.xml"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_order_list.png.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\order_list.png"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_contacts.png.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\contacts.png"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_admin_panel_create_quiz.xml.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\src\\main\\res\\layout\\activity_admin_panel_create_quiz.xml"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_logout.png.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\logout.png"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_sign_up.xml.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\src\\main\\res\\layout\\activity_sign_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_book_library.png.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\book_library.png"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_quiz.png.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\quiz.png"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_geeks_for_geeks.xml.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\src\\main\\res\\layout\\fragment_geeks_for_geeks.xml"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_contacts.png.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\contacts.png"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_about_us.png.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\about_us.png"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_upload_photo.png.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_upload_photo.png"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_search.png.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\search.png"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_pdf_viewer.xml.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\src\\main\\res\\layout\\activity_pdf_viewer.xml"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_book_library.png.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\book_library.png"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v21_ic_upload_photo.xml.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_upload_photo.xml"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v21_order_list.xml.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\order_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_about_us.png.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\about_us.png"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_accepted.png.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\accepted.png"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_quiz.png.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\quiz.png"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_contacts.png.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\contacts.png"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_book_library_admin.png.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\book_library_admin.png"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_sign_in.xml.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\src\\main\\res\\layout\\activity_sign_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_admin_logout.png.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\admin_logout.png"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_admin_logout.png.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\admin_logout.png"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_search.png.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\search.png"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_quiz_admin.png.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\quiz_admin.png"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_logout.png.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\logout.png"
+    },
+    {
+        "merged": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v21_settings.xml.flat",
+        "source": "C:\\Users\\sheshu\\Desktop\\EduOrigin\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\settings.xml"
+    }
+]
